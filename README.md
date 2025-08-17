@@ -19,6 +19,13 @@ Uses AI tools like ChatGPT, Cursor, and Gemini to enhance development speed.
 
 ## 🚀 Projects
 
+### [Nexma ERP – Modern, Comprehensive and Powerful Business Management Solution](https://github.com/hasanayhan/nexma-erp)
+- 📦 Integrated Business Management – Inventory, customer, invoicing, cash, accounting, logistics, and retail modules in one platform.
+- 📊 Real-time Dashboard – Live data updates, financial reports, and business intelligence analytics.
+- ⚡ Modern Tech Stack – Built with Next.js 15, React 19, TypeScript 5, and Tailwind CSS 4 for high performance.
+- 🔐 Supabase Integration – PostgreSQL, Auth, real-time updates, and file storage with a powerful backend.
+- 🌍 Multi-language & Responsive Design – Turkish/English support with a mobile-first modern UI.
+
 ### [Stockly – Quotation and Inventory Management System](https://github.com/hasanayhan/stockly)
 - 🛠️ Developed using Python (Flask), HTML, CSS, JavaScript, Pandas, OpenPyXL, DOCX, and JSON.
 - 📄 Allows users to create professional quotations and efficiently track inventory.
