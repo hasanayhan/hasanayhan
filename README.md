@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 Passionate software engineer with 5 years of experience in building web applications and automation systems.  
-Skilled in Python, NodeJS, React,HTML, CSS, and JavaScript.  
+Skilled in Python, NodeJS, React, HTML, CSS, and JavaScript.  
 Proficient with cloud tools such as AWS and GitHub.  
 Comfortable working remotely and asynchronously.  
 Uses AI tools like ChatGPT, Cursor, and Gemini to enhance development speed.
